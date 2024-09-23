@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
 
+.idea
+.gitignore
+.git
+.DS_Store
+
+
+
 # Log file
 *.log
 
